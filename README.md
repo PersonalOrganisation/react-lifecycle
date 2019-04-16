@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Link Netflify : https://focused-brattain-4b94f6.netlify.com/
+## Link Netlify : https://focused-brattain-4b94f6.netlify.com/
 
 
 ## Available Scripts
